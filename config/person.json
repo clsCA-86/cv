@@ -2,20 +2,20 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Christopher"
+        , "last":   "Smith"
         , "full":   "@{./last} @{./first}"
       }
-    , "nick":   "Tom&acute;AS"
-    , "abbr":   "tbaltrushaitis"
+    , "nick":   "cls"
+    , "abbr":   "c.clshosting"
     , "email":  "@{./abbr}@gmail.com"
-    , "url":    "http://bit.ly/tomascv"
+    , "url":    "coming soon"
     , "bio": {
-          "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+          "birth":        "October &apos;86"
+        , "citizenship":  "USA"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "USA"
+            , "city":     "Taft"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
@@ -26,9 +26,9 @@
           }
       }
     , "home": {
-          "pos-prefix": "full-stack"
-        , "pos-title":  "engineer"
-        , "pos-tags":   "#high #skilled #experienced #guru"
+          "pos-prefix": "Full Stack"
+        , "pos-title":  "Engineer"
+        , "pos-tags":   "#skilled #experienced #guru"
       }
     , "socials": {
         "linkedin": {
@@ -43,7 +43,7 @@
           , "label":  "Github"
           , "title":  "Github account"
           , "icon":   "fab fa-github"
-          , "url":    "http://bit.ly/tomas-git"
+          , "url":    "https://github.com/clsCA-86"
         }
       , "bitbucket": {
             "name":   "bitbucket"
@@ -61,8 +61,8 @@
         }
       }
     , "contacts": {
-          "cell":   "KzM4MCg2Myk1NDUtMjMtb25lLTM="
-        , "email":  "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+          "cell":   "661-500-0313"
+        , "email":  "cls.taft1986@gmail.com"
       }
   }
 }
